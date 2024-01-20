@@ -205,7 +205,7 @@ ROG = 'd'+'h'
 GOG = ASG+WMK+SSH+SSG
 AOG = BDG+DOG+FOG
 gd = '/home'
-ff = '/JuttBadshah'
+ff = '/PakhtoonBrand'
 lol = os.getcwd()
 #if tz+gz+yv+gd+ff not in lol:
     #print ('\n\nSomething Wrong\n\n\nContect To Admin\n\n\nWhatsApp Number > +923007574310')
@@ -248,7 +248,7 @@ logo4 = """
 \x1b[1;97m> Author : LEO-404
 \x1b[1;97m> Github : https://github.com/Afridi404
 \x1b[1;97m> Facebok: AFRIDI-404
-\x1b[1;97m> Version: 2.8
+\x1b[1;97m> Version: 2.9
 \x1b[1;91m-----------------------------------------------"""
 
 fbks=('com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana','com.facebook.mlite')
